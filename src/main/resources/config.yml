@@ -1,0 +1,12 @@
+bungeecord-server-names:
+  lobby-server: 'lobby'
+  login-server: 'hub'
+
+already-registered: '&cYou are already registered!'
+register-usage: '&cPlease use: /register <new-password>'
+successfully-registered: '&aYou are successfully register!'
+not-registered: '&cYou are not registered! Please use /register'
+login-usage: '&cPlease use: /login <password>'
+incorrect-password: '&cIncorrect password!'
+successfully-logged-in: '&aYou are successfully logged in!'
+successfully-logged-out: '&aYou are successfully logged out!'

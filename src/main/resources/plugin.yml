@@ -1,0 +1,14 @@
+name: CrystalAuth
+version: '${project.version}'
+main: dev.tim.crystalauth.CrystalAuth
+api-version: '1.19'
+commands:
+  register:
+    description: Register yourself to play
+    usage: /<command> <new-password>
+  login:
+    description: Login to play
+    usage: /<command> <password>
+  logout:
+    description: Logout
+    usage: /<command>
